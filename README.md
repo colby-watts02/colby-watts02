@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Colby Watts. I work for Builders First Source as an OM. I look forward to learning a lot of useful and interesting information in this class.
 
 <!--
 **colby-watts02/colby-watts02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
