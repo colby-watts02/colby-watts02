@@ -6,3 +6,18 @@ colby watts
 program will greet user
 */
 
+//magic words
+#include <iostream>
+ using namespace std;
+
+ int main() {
+//input: start the program
+//processing: none
+//output 0 (no errors)
+//special FX: says "Hello" to user.
+
+//Lets say Hello
+cout << "Hello, user!" << endl; // "end line" not "end l"
+
+    return 0; //no errors
+ }
