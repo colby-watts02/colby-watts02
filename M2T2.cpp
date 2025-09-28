@@ -6,8 +6,8 @@ Colby Watts
 */
 
 #include <iostream>
-#include <iomanip> // Needed for setprecision, fixed, and setw
-#include <string>  // Good practice, though not strictly required here
+#include <iomanip> 
+#include <string>  
 using namespace std;
 
 int main() {
@@ -17,12 +17,12 @@ int main() {
     // Declare and Initialize variables
     string item = "🍔 Burger";
     double item_price = 9.28;
-    double tax_percent = 0.08; // 8% is 8/100 -> FIXED
+    double tax_percent = 0.08; // 8% is 8/100
     double tax_amount;         // tax in $
     double total;              // price + tax
 
     // Greet user and state the order
-    cout << "Welcome to our CSC 134 Restaurant!" << endl; // Corrected typo
+    cout << "Welcome to our CSC 134 Restaurant!" << endl;
     cout << "You ordered one " << item << "." << endl;
     cout << endl;
 
